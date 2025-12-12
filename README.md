@@ -1,4 +1,4 @@
-# Rico040's Bunny Plugins (test fork, post changes)
+# Rico040's Bunny Plugins (test fork, post changes v2)
 These are Vendetta plugins patched to work with [Bunny](https://github.com/bunny-mod) on new discord versions. Credits goes to original devs of their respective plugin. 
 
 # How to install?
