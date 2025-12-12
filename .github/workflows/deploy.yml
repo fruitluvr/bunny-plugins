@@ -20,7 +20,7 @@ jobs:
 
             - run: npm install --global pnpm
 
-            - name: Install deps
+            - name: Install deps a
               run: pnpm m i
 
             - name: Build plugin(s)
